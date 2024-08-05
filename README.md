@@ -34,3 +34,5 @@ I created and designed an Interactive Dashboard without using a common slicer. I
 # Conclusion 
 
 Through this comprehensive sales analysis, CyberTech gained valuable insights into their sales performance, leading to more informed strategic decisions.
+
+![Screenshot 2024-08-06 031547](https://github.com/user-attachments/assets/3a95708b-9a2b-46df-b3c6-5f4768857fa4)
