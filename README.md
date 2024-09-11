@@ -36,3 +36,6 @@ I created and designed an Interactive Dashboard without using a common slicer. I
 Through this comprehensive sales analysis, CyberTech gained valuable insights into their sales performance, leading to more informed strategic decisions.
 
 ![Screenshot 2024-08-06 031547](https://github.com/user-attachments/assets/3a95708b-9a2b-46df-b3c6-5f4768857fa4)
+
+
+<iframe title="Maven Inspectional Service v.2" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=752c7f19-a2fb-449f-b455-6f50410fccbe&autoAuth=true&ctid=05c72b2a-e8f9-4fd4-bf6b-a3c42044ed61" frameborder="0" allowFullScreen="true"></iframe>
