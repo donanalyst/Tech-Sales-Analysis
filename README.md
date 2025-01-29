@@ -15,7 +15,7 @@ I employed descriptive analytics to summarize historical sales data and sum the 
 I also leverage the use of "SUMIFS" and "IFS" Function to summarize sales data by store and manager.”
 
 # Visualization 
-I created and designed an Interactive Dashboard without using a common slicer. I leverage the use of advance button to give it more interactive and to challenge myself with uncommon practice. The dasboard was compose of different type of chart visualization such as key metrics of the total sales, most purchase item, top performing manager, the comparison of MicroWorld vs Computech, and the partition between category items based on profitability.
+I created and designed an Interactive Dashboard without using a common slicer. I leverage the use of advance button to give it more interactive and to challenge myself with uncommon practice. The dashboard was compose of different type of chart visualization such as key metrics of the total sales, most purchase item, top performing manager, the comparison of MicroWorld vs Computech, and the partition between category items based on profitability.
 
 # Key Findings
 
